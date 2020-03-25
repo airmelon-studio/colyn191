@@ -10,10 +10,11 @@ Colyn191 is an automated robot, her role is inform people about the situation of
 Once the data has been processed, here is an example of a basic message;
 
 ```
-🇦🇺 Daily Report
- Total Confirmed: 2044 
- Total Deaths: 8
+Daily Report
+Total Confirmed: 509
+Total Deaths: 2 
 ```
+
 #### With image (story)
 
 Coming soon ...
@@ -24,11 +25,20 @@ Coming soon ...
 
 #### With recovered
 
-Coming soon ...
+```
+Daily Report
+Total Confirmed: 509
+Total Deaths: 2 
+Total Recovered: 152
+```
 
 #### With difference with D-1
 
-Coming soon ...
+```
+Daily Report
+Total Confirmed: 509 (+54)
+Total Deaths: 2 
+```
 
 ### Changelog
 
