@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+## Colyn191, automatic report about the situation of COVID-19
 
-You can use the [editor on GitHub](https://github.com/airmelon-studio/colyn191/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Colyn191 is an automated robot, her role is inform people about the situation of COVID-19 through social networks. Our data come from the official <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" >repository</a> of Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [:robot: Twitter](https://twitter.com/colyn191)
 
-### Markdown
+### Message
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once the data has been processed, here is an example of a basic message;
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+🇦🇺 Daily Report
+ Total Confirmed: 2044 
+ Total Deaths: 8
+```
+#### With image (story)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Coming soon ...
 
-### Jekyll Themes
+#### With emoji
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/airmelon-studio/colyn191/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Coming soon ...
+
+#### With recovered
+
+Coming soon ...
+
+#### With difference with D-1
+
+Coming soon ...
+
+### Changelog
+
+All notable changes to this project will be documented in this section.
+
+#### [0.0.6] (2020-03-24)
+
+##### Bug Fixes
+
+* add feature flag for covid19 daily report recovered
+* support country ad, ae, al, am, ar, ba, bf, bg, bh, bn, ck, cl, co, cr, cy, do, dz, ec, ee, eg, fi, gr, hr, hu, id, il, in, iq, is, jo, kw, lb, lk, lt, lu, lv, ma, md, mk, mt, mx, pa, pe, ph, pk, pl, qa, ro, rs, ru, sa, sg, si, sk, sm, th, tn, tr, uy, vn, za
+
+#### [0.0.5] (2020-03-24)
+
+##### Features
+
+* support country br
+* support country ir, fr, kr, ch
+
+#### [0.0.4] (2020-03-24)
+
+##### Features
+
+* support country us, gb, nl, be, at, no, se, pt, dk, ca, au, my, br, jp, cz
+
+#### 0.0.2 (2020-03-24)
+
+##### Features
+
+* add diff on daily report
+* add emoji on daily report
+* add translation for each language
+* add support of twitter service
+* allow to import data on a specific date
+* import covid19 data every 4 hours at 0 min
+* report daily covid19 for es, de
+* publish daily report every day at 2 o'clock
+
+#### Bug Fixes
+
+* add breakline and update daily report format
+* add support of top 23 country confirmed cases of covid-19
+* add user dedicated hashtag
+* fix edge case on company, state, report import
+* do not send daily report if source give a 404
+* avoid duplicate report
+* display chart only if ratio is greater than 5%
+* support latest version of timeseries
+* support legacy active property of CSSEGISandData
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the robot? You can contact the [maintainer](https://github.com/arnaud-zg).
