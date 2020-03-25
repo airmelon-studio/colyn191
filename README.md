@@ -80,4 +80,4 @@ All notable changes to this project will be documented in this section.
 
 ### Support or Contact
 
-Having trouble with the robot? You can contact the [maintainer](https://github.com/arnaud-zg).
+Having trouble with the robot? You can contact the <a href="https://github.com/arnaud-zg" target="_blank">maintainer</a>.
