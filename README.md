@@ -38,7 +38,7 @@ Total Deaths: 2
 
 ### With emoji
 
-![Daily report with emoji](./assets/ET_T_RwWkAE04Qz.jpeg)
+![Daily report with emoji](./assets/ET_T_RwWkAE04Qz.png)
 
 ### Useful links
 
