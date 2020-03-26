@@ -39,6 +39,23 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
+### [0.4.0]
+
+### Features
+
+* add feature flag on media service
+* add create story method on media service
+
+### Bug Fixes
+
+* disable us daily report for temporarily
+
+### [0.3.2]
+
+### Bug Fixes
+
+* bug fixes and experience improvements
+
 #### [0.3.1] (2020-03-24)
 
 ##### Bug Fixes
