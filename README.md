@@ -3,7 +3,7 @@
 Colyn191 is an automated robot, her role is inform people about the situation of COVID-19 through social networks. Our data come from the official <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" >repository</a> of Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 
 - <a href="https://twitter.com/colyn191" target="_blank">Twitter</a>
-- Any suggestions?
+- <a href="https://github.com/airmelon-studio/colyn191/issues" target="_blank">Any suggestions?</a>
 
 ### Message
 
