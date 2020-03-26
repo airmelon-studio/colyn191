@@ -32,8 +32,13 @@ Total Confirmed: 509 (+54)
 Total Deaths: 2 
 ```
 
-- With image (story)
-- With emoji
+### With a story
+
+![Story of daily report](./assets/ET_T_wZXYAAal0Q.jpeg)
+
+### With emoji
+
+Coming soon
 
 ### Useful links
 
