@@ -35,6 +35,14 @@ Total Deaths: 2
 - With image (story)
 - With emoji
 
+### Useful links
+
+- <a href="https://corona-status.live" target="_blank">Corona Status</a>
+- <a href="https://icebob.info/covid19" target="_blank">COVID-19 Daily Report</a>
+- <a href="https://mdusmanansari.github.io/COVID-19-Global-Report" target="_blank">COVID-19 Global Report</a>
+- <a href="https://corona.netflex.dev" target="_blank">COVID-19 Stats Worldwide</a>
+- <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">CSSEGISandData</a>
+
 ### Changelog
 
 All notable changes to this project will be documented in this section.
