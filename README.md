@@ -39,27 +39,27 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
-#### [0.0.6] (2020-03-24)
+#### [0.3.1] (2020-03-24)
 
 ##### Bug Fixes
 
 * add feature flag on recovered peoples of covid19 daily report 
 * support country `ad`, `ae`, `al`, `am`, `ar`, `ba`, `bf`, `bg`, `bh`, `bn`, `ck`, `cl`, `co`, `cr`, `cy`, `do`, `dz`, `ec`, `ee`, `eg`, `fi`, `gr`, `hr`, `hu`, `id`, `il`, `in`, `iq`, `is`, `jo`, `kw`, `lb`, `lk`, `lt`, `lu`, `lv`, `ma`, `md`, `mk`, `mt`, `mx`, `pa`, `pe`, `ph`, `pk`, `pl`, `qa`, `ro`, `rs`, `ru`, `sa`, `sg`, `si`, `sk`, `sm`, `th`, `tn`, `tr`, `uy`, `vn`, `za`
 
-#### [0.0.5] (2020-03-24)
+#### [0.3.0] (2020-03-24)
 
 ##### Features
 
 * support country `br`
 * support country `ir`, `fr`, `kr`, `ch`
 
-#### [0.0.4] (2020-03-24)
+#### [0.2.0] (2020-03-24)
 
 ##### Features
 
 * support country `us`, `gb`, `nl`, `be`, `at`, `no`, `se`, `pt`, `dk`, `ca`, `au`, `my`, `br`, `jp`, `cz`
 
-#### 0.0.2 (2020-03-24)
+#### 0.1.0 (2020-03-24)
 
 ##### Features
 
