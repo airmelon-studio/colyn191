@@ -52,6 +52,13 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
+### [0.5.0]
+
+### Bug Fixes
+
+* get reliable date for us report
+* enable us daily report
+
 ### [0.4.0]
 
 ### Features
