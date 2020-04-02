@@ -56,7 +56,7 @@ All notable changes to this project will be documented in this section.
 
 ### Bug Fixes
 
-* get reliable date for us report
+* get reliable data for us report
 * enable us daily report
 
 ### [0.4.0]
