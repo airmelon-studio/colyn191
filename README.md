@@ -36,9 +36,15 @@ Total Deaths: 2
 
 ![Story of daily report](./assets/ET_T_wZXYAAal0Q.jpeg)
 
+### With a line chart
+
+![Weekly report with line chart](./assets/EUxq10eXQAEDcto.jpeg)
+
 ### With emoji
 
 ![Daily report with emoji](./assets/ET_T_RwWkAE04Qz.png)
+
+![Weekly report with emoji](./assets/EUxHXE4X0AAJTJc.png)
 
 ### Useful links
 
@@ -51,6 +57,12 @@ Total Deaths: 2
 ### Changelog
 
 All notable changes to this project will be documented in this section.
+
+### [0.6.0]
+
+### Features
+
+* add line chart service
 
 ### [0.5.0]
 
