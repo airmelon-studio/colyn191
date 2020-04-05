@@ -63,13 +63,14 @@ All notable changes to this project will be documented in this section.
 ### Features
 
 * add line chart service
+* add weekly report service
 
 ### [0.5.0]
 
 ### Bug Fixes
 
-* get reliable data for us report
-* enable us daily report
+* get reliable data for US report
+* enable US daily report
 
 ### [0.4.0]
 
@@ -80,7 +81,7 @@ All notable changes to this project will be documented in this section.
 
 ### Bug Fixes
 
-* disable us daily report for temporarily
+* disable US daily report for temporarily
 
 ### [0.3.2]
 
