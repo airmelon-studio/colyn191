@@ -58,6 +58,12 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
+### [0.7.1] (2020-04-07)
+
+#### Bug Fixes
+
+* bug fixes and experience improvements
+
 ### [0.7.0] (2020-04-05)
 
 #### Features
@@ -134,11 +140,10 @@ All notable changes to this project will be documented in this section.
 * add support of top 23 countries with confirmed cases of covid-19
 * add user dedicated hashtag
 * fix edge case on company, state and report import
-* do not send daily report if source give a 404
+* do not send daily report if source gives a 404
 * avoid duplicate report
-* display chart only if ratio is greater than 5%
 * support latest version of timeseries
-* support legacy active property of CSSEGISandData
+* support legacy property of CSSEGISandData
 
 ### Support or Contact
 
