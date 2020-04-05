@@ -58,12 +58,17 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
+### [0.7.0]
+
+### Features
+
+* add weekly report service
+
 ### [0.6.0]
 
 ### Features
 
 * add line chart service
-* add weekly report service
 
 ### [0.5.0]
 
