@@ -58,65 +58,65 @@ Total Deaths: 2
 
 All notable changes to this project will be documented in this section.
 
-### [0.7.0]
+### [0.7.0] (2020-04-05)
 
-### Features
+#### Features
 
 * add weekly report service
 
-### [0.6.0]
+### [0.6.0] (2020-04-04)
 
-### Features
+#### Features
 
 * add line chart service
 
-### [0.5.0]
+### [0.5.0] (2020-04-03)
 
-### Bug Fixes
+#### Bug Fixes
 
 * get reliable data for US report
 * enable US daily report
 
-### [0.4.0]
+### [0.4.0] (2020-03-28)
 
-### Features
+#### Features
 
 * add feature flag on media service
 * add create story method on media service
 
-### Bug Fixes
+#### Bug Fixes
 
 * disable US daily report for temporarily
 
-### [0.3.2]
+### [0.3.2] (2020-03-26)
 
-### Bug Fixes
+#### Bug Fixes
 
 * bug fixes and experience improvements
 
-#### [0.3.1] (2020-03-24)
+### [0.3.1] (2020-03-24)
 
-##### Bug Fixes
+#### Bug Fixes
 
 * add feature flag on recovered peoples of covid19 daily report 
 * support country `ad`, `ae`, `al`, `am`, `ar`, `ba`, `bf`, `bg`, `bh`, `bn`, `ck`, `cl`, `co`, `cr`, `cy`, `do`, `dz`, `ec`, `ee`, `eg`, `fi`, `gr`, `hr`, `hu`, `id`, `il`, `in`, `iq`, `is`, `jo`, `kw`, `lb`, `lk`, `lt`, `lu`, `lv`, `ma`, `md`, `mk`, `mt`, `mx`, `pa`, `pe`, `ph`, `pk`, `pl`, `qa`, `ro`, `rs`, `ru`, `sa`, `sg`, `si`, `sk`, `sm`, `th`, `tn`, `tr`, `uy`, `vn`, `za`
 
-#### [0.3.0] (2020-03-24)
+### [0.3.0] (2020-03-24)
 
-##### Features
+#### Features
 
 * support country `br`
 * support country `ir`, `fr`, `kr`, `ch`
 
-#### [0.2.0] (2020-03-24)
+### [0.2.0] (2020-03-24)
 
-##### Features
+#### Features
 
 * support country `us`, `gb`, `nl`, `be`, `at`, `no`, `se`, `pt`, `dk`, `ca`, `au`, `my`, `br`, `jp`, `cz`
 
-#### 0.1.0 (2020-03-24)
+### 0.1.0 (2020-03-24)
 
-##### Features
+#### Features
 
 * add diff on daily report
 * add emoji on daily report
