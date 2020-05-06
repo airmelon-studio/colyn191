@@ -1,0 +1,22 @@
+{
+  "name": "colyn191",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:airmelon-studio/colyn191.git",
+  "author": "Arnaud Zheng <arnaud-zg@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "getTimeseries": "ts-node ./scripts/getTimeseries"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "13.13.5",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.2",
+    "prettier": "2.0.5",
+    "ts-node": "8.10.1",
+    "typescript": "3.8.3"
+  }
+}
