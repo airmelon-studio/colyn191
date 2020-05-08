@@ -6,7 +6,7 @@ Colyn191 is an automated robot, her role is inform people about the situation of
 - <a href="https://github.com/airmelon-studio/colyn191/issues" target="_blank">Any suggestions?</a>
 
 You can get timeseries with this link: `https://airmelon-studio.github.io/colyn191/data/timeseries/timeseries-[COUNTRY_CODE].json`
-- Example: https://airmelon-studio.github.io/colyn191/data/timeseries/timeseries-US.json
+- Example: <a href="https://airmelon-studio.github.io/colyn191/data/timeseries/timeseries-US.json" target="_blank">https://airmelon-studio.github.io/colyn191/data/timeseries/timeseries-US.json</a>
 
 ### Message
 
