@@ -1,6 +1,118 @@
 {
   "data": [
     {
+      "date": "2020-05-25T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 137724,
+        "totalDeaths": 7451,
+        "totalRecovered": 107713
+      }
+    },
+    {
+      "date": "2020-05-24T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 135701,
+        "totalDeaths": 7417,
+        "totalRecovered": 105801
+      }
+    },
+    {
+      "date": "2020-05-23T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 133521,
+        "totalDeaths": 7359,
+        "totalRecovered": 104072
+      }
+    },
+    {
+      "date": "2020-05-22T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 131652,
+        "totalDeaths": 7300,
+        "totalRecovered": 102276
+      }
+    },
+    {
+      "date": "2020-05-21T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 129341,
+        "totalDeaths": 7249,
+        "totalRecovered": 100564
+      }
+    },
+    {
+      "date": "2020-05-20T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 126949,
+        "totalDeaths": 7183,
+        "totalRecovered": 98808
+      }
+    },
+    {
+      "date": "2020-05-19T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 124603,
+        "totalDeaths": 7119,
+        "totalRecovered": 97173
+      }
+    },
+    {
+      "date": "2020-05-18T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 122492,
+        "totalDeaths": 7057,
+        "totalRecovered": 95661
+      }
+    },
+    {
+      "date": "2020-05-17T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 120198,
+        "totalDeaths": 6988,
+        "totalRecovered": 94464
+      }
+    },
+    {
+      "date": "2020-05-16T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 118392,
+        "totalDeaths": 6937,
+        "totalRecovered": 93147
+      }
+    },
+    {
+      "date": "2020-05-15T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 116635,
+        "totalDeaths": 6902,
+        "totalRecovered": 91836
+      }
+    },
+    {
+      "date": "2020-05-14T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 114533,
+        "totalDeaths": 6854,
+        "totalRecovered": 90539
+      }
+    },
+    {
+      "date": "2020-05-13T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 112725,
+        "totalDeaths": 6783,
+        "totalRecovered": 89428
+      }
+    },
+    {
+      "date": "2020-05-12T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 110767,
+        "totalDeaths": 6733,
+        "totalRecovered": 88357
+      }
+    },
+    {
       "date": "2020-05-11T23:59:59.999Z",
       "total": {
         "totalConfirmed": 109286,
