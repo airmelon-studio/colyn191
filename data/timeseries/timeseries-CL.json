@@ -1,6 +1,22 @@
 {
   "data": [
     {
+      "date": "2020-05-30T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 94858,
+        "totalDeaths": 997,
+        "totalRecovered": 40431
+      }
+    },
+    {
+      "date": "2020-05-29T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 90638,
+        "totalDeaths": 944,
+        "totalRecovered": 38598
+      }
+    },
+    {
       "date": "2020-05-28T23:59:59.999Z",
       "total": {
         "totalConfirmed": 86943,
