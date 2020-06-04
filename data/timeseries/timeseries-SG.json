@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "date": "2020-06-03T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 36405,
+        "totalDeaths": 24,
+        "totalRecovered": 23582
+      }
+    },
+    {
+      "date": "2020-06-02T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 35836,
+        "totalDeaths": 24,
+        "totalRecovered": 23175
+      }
+    },
+    {
+      "date": "2020-06-01T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 35292,
+        "totalDeaths": 24,
+        "totalRecovered": 22466
+      }
+    },
+    {
+      "date": "2020-05-31T23:59:59.999Z",
+      "total": {
+        "totalConfirmed": 34884,
+        "totalDeaths": 23,
+        "totalRecovered": 21699
+      }
+    },
+    {
       "date": "2020-05-30T23:59:59.999Z",
       "total": {
         "totalConfirmed": 34366,
